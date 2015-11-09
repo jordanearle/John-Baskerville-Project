@@ -10,3 +10,4 @@ Each week I'm building on this project as I'm working on HTML and CSS. This exce
 9th November 2015
 -----------------
 + [Version 2](http://jordanearle.github.io/john-baskerville/version-2.html) - Marked up plain text file as an HTML5 page & added list.
++ [Version 2](http://jordanearle.github.io/john-baskerville/version-2.html) - Playing with links.
