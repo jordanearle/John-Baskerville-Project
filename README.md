@@ -11,3 +11,7 @@ Each week I'm building on this project as I'm working on HTML and CSS. This exce
 -----------------
 + [Version 2](http://jordanearle.github.io/john-baskerville/version-2.html) - Marked up plain text file as an HTML5 page & added list.
 + [Version 3](http://jordanearle.github.io/john-baskerville/version-3.html) - Playing with links.
+
+16th November 2015
+-----------------
++ [Version 4](http://jordanearle.github.io/john-baskerville/version-4.html) - Added table replacing lift
