@@ -25,5 +25,5 @@ Each week I'm building on this project as I'm working on HTML and CSS. This exce
 
 23rd November 2015
 -----------------
-+ Version 6: Internal CSS
++ [Version 6](http://jordanearle.github.io/john-baskerville/version-6.html) - Playing with CSS.
 >>>>>>> master
