@@ -13,7 +13,11 @@
 
 .man {
     padding-top: 1.4em;
+<<<<<<< HEAD
     padding-bottom: 1.4em;
+=======
+    padding-bottom: 1em;
+>>>>>>> gh-pages
 }
 
 .typeface {
@@ -29,17 +33,34 @@
             
 /* Text */
 
+<<<<<<< HEAD
             h1 {font-weight: bold; font-size: 3.375em; color: #c66;}
             h2 {font-weight: normal; font-size: 2.25em; color: #c66;}
             h3 {font-weight: normal; font-size: 1.5em; color: #c66;}
     
             a {
                 text-decoration: none;
+=======
+            h1 {font-weight: bold; font-size: 3.375em; color: #000000; margin-bottom: 5px; text-align: center; }
+            h2 {font-weight: normal; font-size: 2.5em; color: #D13838; line-height: 0.5em; text-align: center;}
+
+                header h2 {font-style: italic; font-size: 1.9em; color: #D13838; line-height: 0.5em; text-align: center; padding-bottom: 20px;}
+
+            h3 {font-weight: normal; font-size: 1.5em; color: #D13838; line-height: 0.5em;}
+
+
+    
+            a {
+                text-decoration: none;
+                padding-left: 5px;
+                padding-right: 5px;
+>>>>>>> gh-pages
                 color: dimgray;
             }
             
             a:hover {
                 color: white;
+<<<<<<< HEAD
                 padding-left: 2px;
                 padding-right: 2px;
                 background-color: #c69;
@@ -47,6 +68,15 @@
 
             li {
                 list-style: lower-roman;
+=======
+                padding-left: 5px;
+                padding-right: 5px;
+                background-color: #F55757;
+            }
+
+            li {
+                list-style: none;
+>>>>>>> gh-pages
                 font-size: 1.2em;
             }
             
@@ -65,12 +95,39 @@
                 padding-bottom: 0.5em;
             }
 
+<<<<<<< HEAD
+=======
+            blockquote {
+                font-style: italic;
+                font-size: 1.2em;
+                color: #7C7C7C;
+                padding-top: 20px;
+                padding-bottom: 10px
+            }
+
+
+
+            small {
+                padding-left: 5px;
+                padding-right: 5px; 
+            }
+
+            
+
+>>>>>>> gh-pages
 /* Table */
 
 td {
     padding: 10px;
 }
 
+<<<<<<< HEAD
+=======
+td {
+    align: left;
+}
+
+>>>>>>> gh-pages
 caption {
     font-size: 1em;
     padding-bottom: 20px;
@@ -84,5 +141,21 @@ caption {
     padding-bottom: 2em;
 }
 
+<<<<<<< HEAD
 
   
+=======
+nav {
+    border-top: 1px solid #E7E7E7;
+    border-bottom: 1px solid #E7E7E7; }
+
+nav ul { 
+    text-align: center}
+
+nav ul li {
+    display: inline;
+    margin: 15px;
+    color: A19E9E;}
+    
+    
+>>>>>>> gh-pages
