@@ -18,10 +18,6 @@ Each week I'm building on this project as I'm working on HTML and CSS. This exce
 <<<<<<< HEAD
 
 + [Version 5](http://jordanearle.github.io/john-baskerville/version-5.html) - Added images
-<<<<<<< HEAD
-=======
->>>>>>> origin/gh-pages
-=======
 
 23rd November 2015
 -----------------
