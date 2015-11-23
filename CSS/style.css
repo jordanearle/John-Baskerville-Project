@@ -1,0 +1,124 @@
+            body {
+                width: 70%;
+                max-width: 640px;
+                min-width: 320px;
+                margin: auto;
+                font-size: 80%;
+                font-family: 'Libre Baskerville', Times, serif;
+                background-color: white;
+                padding-top: 60px;
+                padding-bottom: 60px;
+               /* background: linear-gradient(#ea6153 , #9b59b6);*/   
+            }
+
+.man {
+    padding-top: 1.4em;
+    padding-bottom: 1em;
+}
+
+.typeface {
+    padding-top: 1.4em;
+    padding-bottom: 1.4em;
+}
+
+.eaves {
+    padding-top: 1.4em;
+    padding-bottom: 1.4em;
+}
+            
+            
+/* Text */
+
+            h1 {font-weight: bold; font-size: 3.375em; color: #000000; margin-bottom: 5px; text-align: center; }
+            h2 {font-weight: normal; font-size: 2.5em; color: #D13838; line-height: 0.5em; text-align: center;}
+
+                header h2 {font-style: italic; font-size: 1.9em; color: #D13838; line-height: 0.5em; text-align: center; padding-bottom: 20px;}
+
+            h3 {font-weight: normal; font-size: 1.5em; color: #D13838; line-height: 0.5em;}
+
+
+    
+            a {
+                text-decoration: none;
+                padding-left: 5px;
+                padding-right: 5px;
+                color: dimgray;
+            }
+            
+            a:hover {
+                color: white;
+                padding-left: 5px;
+                padding-right: 5px;
+                background-color: #F55757;
+            }
+
+            li {
+                list-style: none;
+                font-size: 1.2em;
+            }
+            
+            p {
+                font-size: 1.1em;
+                line-height: 1.8em;
+            }
+
+            .intro {
+                font-size: 1.25em;
+                font-weight: 400;
+                line-height: 1.8em;
+                color: dimgray;
+                
+                padding-top: 1em;
+                padding-bottom: 0.5em;
+            }
+
+            blockquote {
+                font-style: italic;
+                font-size: 1.2em;
+                color: #7C7C7C;
+                padding-top: 20px;
+                padding-bottom: 10px
+            }
+
+
+
+            small {
+                padding-left: 5px;
+                padding-right: 5px; 
+            }
+
+            
+
+/* Table */
+
+td {
+    padding: 10px;
+    align: left;
+}
+
+caption {
+    font-size: 1em;
+    padding-bottom: 20px;
+}
+
+/* Img */
+
+.johnimg {
+    float: left;
+    padding-right: 1.5em;
+    padding-bottom: 2em;
+}
+
+nav {
+    border-top: 1px solid #E7E7E7;
+    border-bottom: 1px solid #E7E7E7; }
+
+nav ul { 
+    text-align: center}
+
+nav ul li {
+    display: inline;
+    margin: 15px;
+    color: A19E9E;}
+    
+    
