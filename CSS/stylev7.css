@@ -35,6 +35,22 @@ body {
     padding-top: 1.4em;
     padding-bottom: 1.4em;
 }
+
+.website {
+display: block;
+margin: 1 auto;
+text-align: center;
+padding-top: 20px;
+}
+
+.contactme {
+text-align: center;
+}
+
+.toplink {
+text-align: center;
+}
+
             
             
 /* Text */
@@ -129,6 +145,18 @@ caption {
     padding-bottom: 2em;
 }
 
+.mrseaves {
+display: block;
+margin: 1em auto;
+}
+
+.typeimg {
+display: block;
+margin: 1em auto;
+}
+
+
+
 /* Nav */
 
 nav {
@@ -143,4 +171,56 @@ nav ul li {
     margin: 15px;
     color: A19E9E;}
     
+
+/* Media Queries */
+
+@media (max-width: 30em){
+
+    body {
+        display: block;
+        margin: 0 auto;
+        font-size: 90%;
+        }
+
+    article {
+        width: 90%;
+        }
     
+    .johnimg {
+        display: block;
+        margin: 1em auto;
+        width: 100%;
+        max-width: 150px;
+        padding-top: 10px;
+    }
+    
+    blockquote {
+        margin: 0;
+        line-height: 1em;     
+    }
+    
+    h2 {
+    font-size:1.8em;
+    }
+    
+    header h2 {
+       font-size:1.8em;
+    line-height: 2em;
+    }  
+    
+    nav {
+    border-top: 1px solid #E7E7E7;
+    border-bottom: 1px solid #E7E7E7; }
+
+    nav ul { 
+        text-align: center}
+
+    nav ul li {
+        display:list-item;
+        margin: 15px;
+        color: A19E9E;}
+        
+        
+    
+    }
+}
