@@ -21,3 +21,8 @@ Each week I'm building on this project as I'm working on HTML and CSS. This exce
 23rd November 2015
 -----------------
 + [Version 6](http://jordanearle.github.io/john-baskerville/version-6.html) - Playing with CSS.
+
+30th November 2015
+-----------------
++ [Version 7](http://jordanearle.github.io/john-baskerville/version-7.html) - More CSS.
+
